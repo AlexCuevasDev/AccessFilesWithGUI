@@ -1,0 +1,11 @@
+Pepito;Lambda;Dam;Hombre;10
+Pepito;Omega;Dam;Hombre;25
+Alpha;Omega;Dam;Hombre;25
+Beta;Gamma;Dam;Mujer;25
+Alex;Cuevas;Dam;Hombre;23
+Cristian;Apellido;Dam;Hombre;27
+Ruslan;Apellido;Dam;Hombre;22
+Diego;TEST;Dam;Hombre;20
+Maria;TEST;Asix;Mujer;35
+Pepita;TEST;Asix;Mujer;40
+Marta;TEST;Asix;Mujer;35

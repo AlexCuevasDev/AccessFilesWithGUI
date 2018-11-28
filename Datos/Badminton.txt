@@ -1,0 +1,17 @@
+Maria;TEST;Asix;Mujer;35
+Pepe;Stucom;Asix;Hombre;35
+Pol;pfef;wgw;Hombre;8
+H;h;h;Hombre;12
+Pepe;Tar;Asix;Hombre;12
+wegw;whw;vdv;Mujer;8
+Cristian;Stucom;ASIX;Mujer;8
+Pol;Cuevas;ASIX;Hombre;58
+Ari;Apellido;DAW;Mujer;52
+Ari;Català;Pruebas;Mujer;65
+Mar;Stucom;Pruebas;Mujer;97
+Paula;Pérez;ASIX;Mujer;68
+Xavi;Rodríguez;Pruebas;Hombre;40
+Pepita;Apellido;ASIX;Mujer;76
+Alex;Català;Test;Hombre;76
+Sara;Català;Test;Mujer;81
+Marta;Corominola;Test;Mujer;49

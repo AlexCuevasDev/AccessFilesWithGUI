@@ -1,0 +1,14 @@
+Pau;Test;DAW;Hombre;36
+Diego;Stucom;Dam;Mujer;42
+Diego;Apellido;ASIX;Mujer;73
+Pepita;Cuevas;Dam;Mujer;98
+Jose;Cuevas;Test;Hombre;63
+Marc;Test;Pruebas;Hombre;50
+Alba;Corominola;Pruebas;Mujer;27
+Maria;Català;DAW;Mujer;57
+Marc;Pérez;DAW;Hombre;5
+Cristian;Pérez;Pruebas;Hombre;99
+Alex;Pérez;Pruebas;Hombre;86
+Xavi;Represa;ASIX;Hombre;89
+Marta;Apellido;DAW;Mujer;16
+Alba;Pérez;ASIX;Mujer;98

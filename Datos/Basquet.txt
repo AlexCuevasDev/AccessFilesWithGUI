@@ -1,0 +1,11 @@
+ngnjmfv;ev;kl;Hombre;8
+Pau;Apellido;ASIX;Mujer;62
+Alex;Stucom;Dam;Mujer;58
+Pol;Test;Pruebas;Mujer;6
+Pepita;Stucom;Pruebas;Mujer;46
+Marta;Stucom;Dam;Mujer;42
+Alba;Test;Pruebas;Mujer;82
+Mar;Rodríguez;ASIX;Mujer;66
+Anna;Corominola;DAW;Mujer;92
+Alba;Stucom;Dam;Mujer;98
+Paula;Rodríguez;DAW;Mujer;85
